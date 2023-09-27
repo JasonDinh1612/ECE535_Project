@@ -17,7 +17,7 @@ Python, Laptop with CUDA-enabled GPU
 
 # Team member responsibilities:
 - Jason: Time management
-- Aakash:
+- Aakash: Gathering Data
 # Project timeline:
 
 # References:
