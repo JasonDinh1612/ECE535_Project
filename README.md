@@ -3,13 +3,15 @@
 # Motivation:
 
 # Design Goals:
-
+Developing deep learning tracking algorithm for two mobile systems
 # Deliverables:
-
+Implement and understand an end-to-end learning approach for tracking – TartanVO
+• Benchmark TartanVO on two datasets to evaluate its performance (data & code provided)
+• Analyze performance differences across datasets and reason about it
 # System block:
 
 # Hardware/Software Requirements:
-
+Python, Laptop with CUDA-enabled GPU
 # Team member responsibilities:
 
 # Project timeline:
