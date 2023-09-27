@@ -29,4 +29,4 @@ Paper: TartanVO: A Generalizable Learning-based VO, https://arxiv.org/pdf/2011.0
 
 # Team member's role:
 - Jason: Networking, research, algorithm design
-- Aakash: 
+- Aakash: Setup, Software, Writing
