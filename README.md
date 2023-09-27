@@ -1,12 +1,12 @@
 # ECE535_Project
 
 # Project Idea: 
-We have picked Project 4 about Deep-Learning based Tracking for Mobile Systems. We think we can do this project because, we both are doing a project for SDP which includes using sensors and collecting data from that as well as we are doing image processing. We both have some background with sensors and acquiring data. So doing this project will also be helpful to us in our SDP
+We have picked Project 4: Deep-Learning-based Tracking for Mobile Systems. We think we can do this project because we both are doing a project for SDP which includes using sensors and collecting data from them as well as doing image processing. We both have some background in sensors and acquiring data. So doing this project will also be helpful to us in our SDP
 
 # Motivation:
-- A better understanding of deep learning tracking algorithms
-- An opportunity to learn more about image processing
-- Apply knowledge of Machine Learning to the project
+- A better understanding of deep learning tracking algorithms.
+- An opportunity to learn more about image processing and map generation.
+- Apply knowledge of Machine Learning as well as sensors to the project.
 # Design Goals:
 Developing deep learning tracking algorithm for two mobile systems
 
