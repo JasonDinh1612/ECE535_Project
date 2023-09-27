@@ -19,7 +19,7 @@ Python, Laptop with CUDA-enabled GPU
 - Jason: Time management
 - Aakash: Gathering Data
 # Project timeline:
-
+Stay on track and finish the project before deadline. 
 # References:
 - Paper: TartanVO: A Generalizable Learning-based VO, https://arxiv.org/pdf/2011.00359.pdf
 - Code: https://github.com/castacks/tartanvo
