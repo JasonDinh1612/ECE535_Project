@@ -1,7 +1,9 @@
 # ECE535_Project
 
 # Motivation:
-
+- A better understanding of deep learning tracking algorithms
+- An opportunity to learn more about image processing
+- Apply knowledge of Machine Learning to the project
 # Design Goals:
 Developing deep learning tracking algorithm for two mobile systems
 
