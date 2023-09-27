@@ -16,7 +16,8 @@ Developing deep learning tracking algorithm for two mobile systems
 Python, Laptop with CUDA-enabled GPU
 
 # Team member responsibilities:
-
+- Jason: Time management
+- Aakash:
 # Project timeline:
 
 # References:
