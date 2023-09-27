@@ -1,6 +1,6 @@
 # ECE535_Project
 
-#Project Idea 
+#Project Idea: 
 We have picked Project 4 about Deep-Learning based Tracking for Mobile Systems. We think we can do this project because, we both are doing a project for SDP which includes using sensors and collecting data from that as well as we are doing image processing. We both have some background with sensors and acquiring data. So doing this project will also be helpful to us in our SDP
 
 # Motivation:
